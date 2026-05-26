@@ -1,9 +1,4 @@
 # U.S. State Crime Rate Analysis
-### BUAD 5722: Big Data & Cloud Analytics — William & Mary MSBA
-
-**Team 13:** Latisha Khorana · Turner Mathieux · Violet Zhao · Bryce Marin
-
----
 
 ## Business Question
 
