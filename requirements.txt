@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+plotly
+dash
+scikit-learn
+h2o
+groq
+requests
